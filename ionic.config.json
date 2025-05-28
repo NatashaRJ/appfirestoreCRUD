@@ -1,0 +1,7 @@
+{
+  "name": "appfirestoreCRUD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
